@@ -1,2 +1,3 @@
-.sql
+*.sql
 .dump_db
+.DS_Store
